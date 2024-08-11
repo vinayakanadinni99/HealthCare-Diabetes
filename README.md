@@ -1,1 +1,1 @@
-## This is an END to END machine learning project on HealthCare Diabetics
+## This is an END to END machine learning project on HealthCare Diabetes
